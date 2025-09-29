@@ -1,4 +1,4 @@
-import { FC } from "react";
+import type { FC } from "react";
 import { Navbar, Nav, Container} from "react-bootstrap";
 import { motion } from "framer-motion";
 import GradientButton from "./Button";

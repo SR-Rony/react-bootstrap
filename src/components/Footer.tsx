@@ -1,4 +1,4 @@
-import { FC } from "react";
+import type { FC } from "react";
 import { Container, Row, Col, Form, Button } from "react-bootstrap";
 import { motion } from "framer-motion";
 import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa";

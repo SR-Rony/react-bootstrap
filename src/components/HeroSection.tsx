@@ -1,6 +1,6 @@
 // src/components/HeroSection.tsx
-import { FC } from "react";
-import { Container, Row, Col, Button } from "react-bootstrap";
+import type { FC } from "react";
+import { Container, Row, Col, } from "react-bootstrap";
 import { motion } from "framer-motion";
 import GradientButton from "./Button";
 

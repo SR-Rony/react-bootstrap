@@ -1,4 +1,4 @@
-import { FC } from "react";
+import type { FC } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import { motion } from "framer-motion";
 

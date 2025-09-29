@@ -1,4 +1,4 @@
-import { FC } from "react";
+import type { FC } from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import { motion } from "framer-motion";
 import { FaShieldAlt, FaRocket, FaUsers, FaMobileAlt } from "react-icons/fa";

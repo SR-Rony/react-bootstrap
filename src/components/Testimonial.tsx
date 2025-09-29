@@ -1,4 +1,4 @@
-import { FC } from "react";
+import type { FC } from "react";
 import { Container, Card } from "react-bootstrap";
 import { motion } from "framer-motion";
 import Slider from "react-slick";
